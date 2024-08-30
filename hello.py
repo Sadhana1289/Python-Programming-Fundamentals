@@ -1,0 +1,6 @@
+print("Hello")
+name = input("What is your name?")
+Age = input("Enter your birth year? ")
+Current_age =2024-int(Age)
+print(Age)
+print(Current_age)
